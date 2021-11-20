@@ -5,9 +5,8 @@ function Footer() {
   return (
     <footer className='p-d-flex p-jc-center p-ai-center'>
       <p>
-        <span className='p-mr-2'>Contribute on</span>
         <a
-          href={'https://github.com/EddieHubCommunity/EventCalendar'}
+          href={'https://github.com/panubhav0112/Event-Calendar/tree/master'}
           className='p-mr-2'
           aria-label='EddieHubCommunity EventCalendar repository on GitHub'
         >
